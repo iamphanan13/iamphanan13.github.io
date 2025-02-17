@@ -1,0 +1,11 @@
+{
+    "description": "Describe the use of this subdomain",
+    "repo": "https://github.com/iamphanan13/iamphanan13.github.io",
+    "owner": {
+        "username": "iamphanan13",
+        "email": "phanan1309@gmail.com"
+    },
+    "record": {
+        "CNAME": "iamphanan13.github.io"
+    }
+}
